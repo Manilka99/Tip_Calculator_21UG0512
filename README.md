@@ -35,7 +35,7 @@ Dark mode support with theme customization.
 - Light Mode: Traditional light theme.
 - Dark Mode: Elegant dark theme.
 - Auto (System Default): Follows the system's theme settings.
-- To customize the theme, click the "T" button in the app's main screen and choose the desired theme from the options provided.
+- To customize the theme, click the button in the app's main screen upper right corner and choose the desired theme from the options provided.
 
 
 
