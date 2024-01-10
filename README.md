@@ -13,9 +13,9 @@ Dark mode support with theme customization.
 
 ## Getting Started
 ### To use the Tip Calculator App, follow these steps:
-1.Clone the repository: [https://github.com/Manilka99/Tip_Calculator_21UG0512.git](https://github.com/Manilka99/Tip_Calculator_21UG0512.git)
-2.Open the project in Android Studio.
-3.Build and run the app on an emulator or a physical device.
+- Clone the repository: [https://github.com/Manilka99/Tip_Calculator_21UG0512.git](https://github.com/Manilka99/Tip_Calculator_21UG0512.git)
+- Open the project in Android Studio.
+- Build and run the app on an emulator or a physical device.
 
 ## Pre-requisites
 ### Before you begin, make sure you have the following:
